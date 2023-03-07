@@ -12,6 +12,7 @@ Data sources:
 <br>
 <br>
 
-<img src="https://github.com/MyreLab/NY-covid-prevalence/blob/main/img/map.png?raw=true"  width="570" height="400">
+  <img src="https://github.com/MyreLab/NY-covid-prevalence/blob/main/img/NY.png?raw=true" alt="map" style="max-width: 100%; height: 400px;">
+
 
 
