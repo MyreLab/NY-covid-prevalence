@@ -8,3 +8,10 @@ Data sources:
 - 2021 American Community Survey: [62 New York counties by population](https://www.newyork-demographics.com/counties_by_population)
 - Cornell University Geospatial Information Repository: [GeoJSON shape file with NY county boundaries](https://cugir.library.cornell.edu/catalog/cugir-007865)
 - New York State Department of Health: [Statewide COVID-19 testing by county](https://dev.socrata.com/foundry/health.data.ny.gov/xdss-u53e)
+
+<br>
+<br>
+
+<img src="https://github.com/MyreLab/NY-covid-prevalence/blob/main/img/map.png?raw=true"  width="570" height="400">
+
+
